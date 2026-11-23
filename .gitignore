@@ -1,0 +1,6 @@
+TASK-new-*.md
+agent-*.log
+STATUS.md
+result.json
+transcripts.tar.gz
+
